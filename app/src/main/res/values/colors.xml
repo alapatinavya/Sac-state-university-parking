@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0fa153</color>
+    <color name="colorPrimaryDark">#00573d</color>
+    <color name="colorAccent">#f0e1b0</color>
+    <color name="sacStateGold">#e1c57a</color>
+    <color name="sacStateGreen">#043927</color>
+    <color name="stingerGreen">#00573d</color>
+</resources>
